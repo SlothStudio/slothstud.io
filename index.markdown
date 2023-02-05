@@ -5,4 +5,7 @@
 layout: blank
 ---
 
-# Comming soon!
+![Sloth Studio - Games Without Release Date](assets/logo_path.svg)
+
+Nothing to see here... yet!
+
